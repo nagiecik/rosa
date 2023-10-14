@@ -27,13 +27,13 @@ const SectionDesktopLargeHero2 = () => {
           <img
             className={styles.iconarrowleft}
             alt=""
-            src="/iconarrowleft.svg"
+            src="/iconarrowleft3.svg"
           />
           <b className={styles.text}>Get your app</b>
           <img
             className={styles.iconarrowleft}
             alt=""
-            src="/iconarrowright.svg"
+            src="/iconarrowright3.svg"
           />
         </button>
       </nav>

@@ -3,12 +3,7 @@ import styles from "./index.module.css";
 const Content = () => {
   return (
     <div className={styles.content}>
-      <div className={styles.sectiondesktopLargehero2}>
-        <img
-          className={styles.backgroundIcon}
-          alt=""
-          src="/background@2x.png"
-        />
+      <div className={styles.hero}>
         <nav className={styles.navbar1}>
           <img className={styles.logotypeIcon}>ROSA</img>
           <div className={styles.links}>
@@ -32,13 +27,13 @@ const Content = () => {
             <img
               className={styles.iconarrowleft}
               alt=""
-              src="/iconarrowleft.svg"
+              src="/iconarrowleft3.svg"
             />
             <b className={styles.text}>Get your app</b>
             <img
               className={styles.iconarrowleft}
               alt=""
-              src="/iconarrowright.svg"
+              src="/iconarrowright3.svg"
             />
           </button>
         </nav>
